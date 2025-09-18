@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>AI Chat Workshop</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Poppins', sans-serif;
+      margin: 0;
+      background: #f9fafc;
+      color: #333;
+      line-height: 1.6;
+    }
+    .container {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 2rem;
+    }
+    header {
+      background: #ffffff;
+      padding: 4rem 2rem;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 2.5rem;
+      margin-bottom: 1rem;
+    }
+    header p {
+      font-size: 1.2rem;
+      margin-bottom: 2rem;
+    }
+    .cta-btn {
+      background: linear-gradient(to right, #667eea, #764ba2);
+      color: white;
+      padding: 0.75rem 1.5rem;
+      border: none;
+      font-size: 1rem;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: 0.3s;
+    }
+    .cta-btn:hover {
+      opacity: 0.9;
+    }
+    section {
+      padding: 3rem 0;
+    }
+    h2 {
+      text-align: center;
+      font-size: 2rem;
+      margin-bottom: 2rem;
+    }
+    .grid {
+      display: grid;
+      gap: 2rem;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    }
+    .card {
+      background: white;
+      padding: 1.5rem;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    }
+    .testimonial {
+      font-style: italic;
+      font-size: 1rem;
+    }
+    .bio {
+      text-align: center;
+    }
+    .faq {
+      max-width: 700px;
+      margin: auto;
+    }
+    .faq-item {
+      margin-bottom: 1.5rem;
+    }
+    footer {
+      text-align: center;
+      padding: 3rem 1rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>🎉 Happy Birthday, Pummy 🎂</h1>
+
+      <p>A hands-on live workshop to help you use AI like ChatGPT & Midjourney for real results — fast.</p>
+      <button class="cta-btn">Reserve Your Spot Now</button>
+    </div>
+  </header>
+
+  <section>
+    <div class="container">
+      <h2>What You'll Learn</h2>
+      <div class="grid">
+        <div class="card">✅ Use ChatGPT to write & create 10x faster</div>
+        <div class="card">✅ Generate stunning AI visuals with Midjourney</div>
+        <div class="card">✅ Automate repetitive tasks without coding</div>
+        <div class="card">✅ Build real-world AI workflows for your business</div>
+      </div>
+    </div>
+  </section>
+
+  <section style="background: #ffffff;">
+  <div class="container">
+    <h2>Birthday Girl 💖</h2>
+    <div class="card bio">
+      <img src="c:\Users\vyada\Downloads\WhatsApp Image 2025-09-18 at 23.31.10_fced3580,WhatsApp Image 2025-09-18 at 23.31.11_6a5c570a,W[...].zip" alt="Birthday Girl" style="width:150px; height:150px; border-radius: 50%; object-fit: cover; margin-bottom: 1rem;">
+      <p><strong>Pummy</strong></p>
+      <p>Wishing you a day filled with love, smiles, and happiness. You mean the world to me! 💝</p>
+    </div>
+  </div>
+</section>
+
+
+  <section>
+    <div class="container">
+      <h2>Workshop Details</h2>
+      <div class="card">
+        <p>📅 <strong>Date:</strong> September 19, 2025</p>
+        <p>⏰ <strong>Time:</strong> 6PM – 8PM (GMT)</p>
+        <p>📍 <strong>Location:</strong> Live Zoom + Replay Access</p>
+        <p>🎁 Includes templates + bonuses</p>
+      </div>
+    </div>
+  </section>
+
+  <section style="background: #ffffff;">
+    <div class="container">
+      <h2>Your Instructor</h2>
+      <div class="card bio">
+        <p><strong>Alex Pummy</strong></p>
+        <p>AI Educator & Consultant</p>
+        <p>I’ve helped over 1,200 people use AI tools to work smarter, create faster, and grow their businesses with confidence.</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="container">
+      <h2>What Others Say</h2>
+      <div class="grid">
+        <div class="card testimonial">“This workshop changed how I use AI at work. Highly recommended!” — Sarah M.</div>
+        <div class="card testimonial">“I built a full content calendar using ChatGPT in 20 minutes. Game changer.” — Jamal A.</div>
+      </div>
+    </div>
+  </section>
+
+  <section style="background: #f0f4ff;">
+    <div class="container">
+      <h2>Reserve Your Spot</h2>
+      <div class="card">
+        <p>🎟 Price: <strong>$29</strong> (early bird)</p>
+        <p>✅ Includes lifetime access + bonuses</p>
+        <button class="cta-btn">Join the Workshop Now</button>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="container faq">
+      <h2>FAQs</h2>
+      <div class="faq-item">
+        <p><strong>Do I need prior AI experience?</strong><br>Not at all! This workshop is beginner-friendly.</p>
+      </div>
+      <div class="faq-item">
+        <p><strong>Will there be a replay?</strong><br>Yes! Everyone gets lifetime replay access.</p>
+      </div>
+      <div class="faq-item">
+        <p><strong>What tools do I need?</strong><br>Just a laptop and a stable internet connection. We’ll walk you through everything.</p>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <h2>Ready to Join?</h2>
+      <p>Don’t miss your chance to learn hands-on AI skills. Spots are limited!</p>
+      <button class="cta-btn">Reserve Your Spot</button>
+    </div>
+  </footer>
+</body>
+</html>
